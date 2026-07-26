@@ -98,9 +98,9 @@
 
 # 📫 Connect With Me
 
-📧 Email: your_email@gmail.com
+📧 Email: jasmeenkaur9317@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jasmeen-kaur-5404b73a9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 🌐 GitHub: https://github.com/Jasmeenkaur05
 
