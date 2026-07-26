@@ -1,46 +1,62 @@
-<h1 align="center">Hi 👋, I'm Jasmeen Kaur</h1>
+<div align="center">
 
-<h3 align="center">💻 B.Tech CSE (AI & ML) Student</h3>
+# Hi 👋, I'm Jasmeen Kaur
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;Java+Learner;AI+%26+ML+Student;Web+Development+Enthusiast" />
-</p>
+### 💻 B.Tech CSE (AI & ML) Student | Python • Java • Web Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Python+Developer;Java+Learner;Future+Software+Engineer🚀" />
+
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML)
-- 🌱 Learning Python, Java, SQL
-- 💻 Interested in Web Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 📚 Always learning something new
+🎓 B.Tech in Computer Science Engineering (AI & ML)
+
+🌱 Currently Learning:
+- Python
+- Java
+- SQL
+- Data Structures & Algorithms
+- HTML, CSS & JavaScript
+
+💡 Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+- Open Source
+
+🎯 Goal:
+> Become a Software Engineer and AI Developer.
 
 ---
 
-# 🛠️ Skills
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github,vscode"/>
+
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Jasmeenkaur05&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Jasmeenkaur05&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=Jasmeenkaur05&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Jasmeenkaur05&theme=tokyonight&hide_border=true)
 
 ---
 
 # 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmeenkaur05&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmeenkaur05&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -52,23 +68,55 @@
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Jasmeenkaur05&theme=tokyonight&row=1)
+![](https://github-profile-trophy.vercel.app/?username=Jasmeenkaur05&theme=tokyonight&row=1&column=7)
 
 ---
 
-# 👀 Visitors
+# 📌 Featured Projects
 
-![](https://komarev.com/ghpvc/?username=Jasmeenkaur05&color=blue)
+🔹 Student Management System
+
+🔹 Library Management System
+
+🔹 Calculator using Python
+
+🔹 Portfolio Website
+
+🔹 AI & ML Mini Projects
 
 ---
 
-# ⚡ Fun Fact
+# 📚 Currently Learning
 
-```python
-while True:
-    learn()
-    code()
-    repeat()
-```
+- Data Structures
+- Machine Learning
+- SQL
+- Git & GitHub
+- Java
 
-⭐ **Thanks for visiting my profile!**
+---
+
+# 📫 Connect With Me
+
+📧 Email: your_email@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+🌐 GitHub: https://github.com/Jasmeenkaur05
+
+---
+
+# 💡 Quote
+
+> "Success doesn't come from what you do occasionally.
+It comes from what you do consistently."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://komarev.com/ghpvc/?username=Jasmeenkaur05&color=blue"/>
+
+</div>
